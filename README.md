@@ -1,5 +1,7 @@
 # persona-vue
 
+The front-end experience for the Castlight's demo platform
+
 ## Project setup
 ```
 npm install
